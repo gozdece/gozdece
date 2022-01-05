@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gözde</h1>
-<h3 align="center">.Net Developer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70E15&lines=.Net+Developer)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **.Net**
 
