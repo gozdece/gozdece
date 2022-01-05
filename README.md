@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gözde</h1>
-<p align="center">
+<h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23F70E15&lines=.Net+Developer">
-</p>
+</h3>
 
 
 - 🌱 I’m currently learning **.Net**
